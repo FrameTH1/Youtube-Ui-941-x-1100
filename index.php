@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Css -->
+    <link rel="stylesheet" href="index.css">
+    <!-- Google Icons -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <title>Youtube - Clone </title>
+</head>
+<body>
+    <div class="set-width-943px">
+        <div class="set-width-943px">
+    <div class="navbar">
+        <div class="navbar-grid">
+            <div class="menu-left">
+                <span class="material-symbols-outlined">
+                    menu
+                </span>
+                <div class="yt-logo">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png"
+                        alt="">
+                    <h1>Premium</h1>
+                    <h3>TH</h3>
+                </div>
+            </div>
+            <div class="menu-center">
+                <div class="search">
+                    <h1 class="thai">ค้นหา</h1>
+                    <div class="search-btn-grid">
+                        <span class="material-symbols-outlined">
+                            search
+                        </span>
+                    </div>
+                </div>
+                <div class="mic-icon">
+                    <span class="material-symbols-outlined">
+                        mic
+                    </span>
+                </div>
+            </div>
+            <div class="menu-right">
+                <ul>
+                    <li>
+                        <span class="material-symbols-outlined">
+                            add_a_photo
+                        </span>
+                    </li>
+                    <li>
+                        <span class="material-symbols-outlined">
+                            notifications
+                        </span>
+                    </li>
+                    <li>
+                        <img src="https://yt3.ggpht.com/Lbh3foanJo-zrXkw6kGFZvjBIXhQvx0a486LIK7Wepr9IzBLaf9gh0GcRpnLjmAFNbOJptuz=s88-c-k-c0x00ffffff-no-rj-mo"
+                            alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="menu-content-left">
+        <ul>
+            <li>
+                <div class="body-menu-content-left">
+                    <div class="icon-menu-content-left">
+                        <span class="material-symbols-outlined">
+                            home
+                        </span>
+                    </div>
+                    <h1 class="thai">หน้าเเรก</h1>
+                </div>
+            </li>
+            <li>
+                <div class="body-menu-content-left">
+                    <div class="icon-menu-content-left">
+                        <span class="material-symbols-outlined">
+                            app_shortcut
+                        </span>
+                    </div>
+                    <h1 class="thai">Shorts</h1>
+                </div>
+            </li>
+            <li>
+                <div class="body-menu-content-left">
+                    <div class="icon-menu-content-left">
+                        <span class="material-symbols-outlined">
+                            subscriptions
+                        </span>
+                    </div>
+                    <h1 class="thai">การติดตาม</h1>
+                </div>
+            </li>
+            <li>
+                <div class="body-menu-content-left">
+                    <div class="icon-menu-content-left">
+                        <span class="material-symbols-outlined">
+                            trip_origin
+                        </span>
+                    </div>
+                    <h1>Originals</h1>
+                </div>
+            </li>
+            <li>
+                <div class="body-menu-content-left">
+                    <div class="icon-menu-content-left">
+                        <span class="material-symbols-outlined">
+                            headphones
+                        </span>
+                    </div>
+                    <h1>Youtube Mu..</h1>
+                </div>
+            </li>
+            <li>
+                <div class="body-menu-content-left">
+                    <div class="icon-menu-content-left">
+                        <span class="material-symbols-outlined">
+                            movie
+                        </span>
+                    </div>
+                    <h1 class="thai">คลังวิดีโอ</h1>
+                </div>
+            </li>
+            <li>
+                <div class="body-menu-content-left">
+                    <div class="icon-menu-content-left">
+                        <span class="material-symbols-outlined">
+                            download
+                        </span>
+                    </div>
+                    <h1 class="thai">การดาวโหลด</h1>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="content">
+        <div class="content-grid">
+            <div class="navbar-content">
+                <div class="navbar-content-grid">
+                    <ul>
+                        <li class="thai selected-navbar">
+                            <h1>ทั้งหมด</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>เพลง</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>เกม</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>มิกซ์</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>ข่าวสาร</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>สด</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>Roblox</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>เกมเเอ็กขั้นพจลภัย</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>การ์ตูน</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>อัพโหลดสำเร็จ</h1>
+                        </li>
+                        <li class="thai">
+                            <h1>เพิ่ม</h1>
+                        </li>
+                    </ul>
+                    <div class="more-hidden-navbar-content-grid"></div>
+                </div>
+            </div>
+            <div class="video-content">
+                <div class="video-content-grid">
+                    <div class="colums">
+                        <div class="colum">
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/gYLlUNTqZ2M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZs8UBUptCE-DFmFJkc3ZS6IEcfg"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/ccgxjPnCeYO5o6WmTfu6mt9gjWtqF67H3_OpJbjAxPlvbAMIoHxsfLIRNBa-mn-R6rBu8_iLUNY=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>祝福 / YOASOBI(covered by 犬山たまき)</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1>Tamaki Ch. 犬山たまき / 佃煮のり</h1>
+                                    <h1 class="thai">การดู 5 แสน ครั้ง • 1 เดือนที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/wifvnNM8FpY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmd4kvjI0IxYn13WRWB2wcaMNwVw"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/6H5rUgHKDFffKH4CPyhfkiN6N0gsaX0jbheSM5LcW6h98o4SW5MpxKN7j5cPVJ-icNvEZwSyHw=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1 class="thai">กอดฉันที - Mycara Melony【Original Song】</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">Mycara Melony Ch. Pixela-Mystic</h1>
+                                    <h1 class="en-th thai">การดู 9.9 หมื่น ครั้ง • 1 เดือนที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/Mcxkrrwm6QY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCitHTRC8gjydDx_7C36lau-gltdQ"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/ytc/AMLnZu_xN6mF86uzjLnAILA16FLYMJE8Zh3WnqhGYCRWIA=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>Using Data to Drive Platform Growth From Line</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">LINE Developers Thailand</h1>
+                                    <h1 class="en-th thai">การดู 166 ครั้ง • 3 เดือนที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/kdJieOpPrMI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_HysxMFn8t0w-JeLkMI4m_8xeDA"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/Ci7w0_WSSRoufmr6XjDuL1gPhurSxf5gNsH12Un47QThvZOSfpYPFKCONSYfoIigjOOG13oJCQ=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>Thanks for being Lifeless (PinocchioP ) / covered by dtto.</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">dtto.</h1>
+                                    <h1 class="en-th thai">การดู 1.1 เเสน ครั้ง • 9 เดือนที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/TkSbJI_8Jtg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8BuZ9AUZFeW7lwz2H4w1ABCQz8w"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/FNMsdVMgTDWeB01-Mp77Pp__4QwTMDW29WgranH4Fv1bfRkDGYl2n_fvucFS75jwM8J6ZCPhDA=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>เขาคือ อดีตทหารผ่านศึก ที่ฉลาดที่สุดในโลก! ภาค 1-2 (สปอย...</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">MalagorMan</h1>
+                                    <h1 class="en-th thai">การดู 2.4 เเสน ครั้ง • 10 เดือนที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/fc-wvLti_8c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClr2uABBgQR4xyQeKN62C_y81mSw"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/ytc/AMLnZu_xN6mF86uzjLnAILA16FLYMJE8Zh3WnqhGYCRWIA=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>Inside LINE OA Plus #5 เปิดตัว 'My Shop App' และฟังเบื้องหลั...</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">LINE Developers Thailand</h1>
+                                    <h1 class="en-th thai">การดู 792 ครั้ง • 2 ปีที่เเล้ว</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/r767M8NhnGU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhy90J0dtLTvX9JKhwcPM2q5pgJQ"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/QR4geXYoOoqpH8dxl-pjtk-6os_YGY9Hzx-WZCTQ9mHWpH24qGlvhUfbOj2GN0B582XDV4Yo=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>可愛くてごめん　/ 歌ってみた　ver.柊優花【オリジナル...</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1>柊 優花</h1>
+                                    <h1 class="en-th thai">การดู 1.1 เเสน ครั้ง • 2 สัปดาห์ที่เเล้ว</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/qbEQTX4himM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwSoWvOZLyNxB3LidX5jWtIL7qlQ"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/ytc/AL5GRJWdlwWIjnCHJ03ZY9mejjHMWkkSOAuo_Gj9_0hILA=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>A bug made this worthless item useful (Hypixel SkyBloc...</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">ThirtyVirus</h1>
+                                    <h1 class="en-th thai">การดู 6 หมื่น ครั้ง • 5 วันที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/6CbH6mUVPiw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjtzI0CXGgW0eGsyRtNCL3v5UxQ"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/0atVNc8xQGPd9FypS-7l8s3YygU1NhjVQuaRcOLmVTw7aumCiBcM07IXtDzL0fPWfTK_Y12lHw=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>【Original Song】 Dawn 「 Solar feat. @Selene_ARP」</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">Solar Ch.</h1>
+                                    <h1 class="en-th thai">การดู 5.5 เเสน ครั้ง • 4 เดือนที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/MNiPtzpFXfQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXWPBWwoCtCwU5CVp0V0esDZuTVA"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/ytc/AL5GRJXfxwqaORGURLULG0Xan-_yV4-QDLQf8lB4SceJtA=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>แอบไปรู้มาว่ากองทัพกำลังจับเอเลี่ยนมาทดลอง เขาก็เลย…</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">MalagorMan</h1>
+                                    <h1 class="en-th thai">การดู 5 พัน ครั้ง • 6 ชั่วโมงที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/lkSqw2UYdkk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKD8zFMlNUJC0TPgQrX_NT9c2Tqw"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/sbhp61I3MiiRwfeNASB9GLe2msGSwbzMyUSqPCAeOBiRjFYIcAOpn4GSsmxTQ_jMHqdExWjihE0=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1>เอาชีวิตรอด 100 วัน Ultimate survival Minecraft ในความยา…</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1 class="en-th">MTRenz</h1>
+                                    <h1 class="en-th thai">การดู 3.8 เเสน ครั้ง • 5 วันที่ผ่านมา</h1>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <img src="https://i.ytimg.com/vi/3UV8OZj2olg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMRGok3zYslP1Q2IUI4GmNubnpug"
+                                    alt="">
+                                <div class="title-video">
+                                    <img src="https://yt3.ggpht.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU=s68-c-k-c0x00ffffff-no-rj"
+                                        alt="">
+                                    <h1 class="en-th">-ERROR/常闇トワ(cover)</h1>
+                                </div>
+                                <div class="description-ch">
+                                    <h1>Towa Ch. 常闇トワ</h1>
+                                    <h1 class="en-th thai">การดู 12 ล้าน ครั้ง • 2 ปีที่เเล้ว</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+</body>
+
+</html>
